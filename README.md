@@ -2,7 +2,7 @@
 
 A simple example on how to send get requet from java client to restful web service
 
-Requirements:
+Prerequisites:
 
 1. Netbeans 8.1
 2. Wildfly 10.1.0.Final
